@@ -4,7 +4,7 @@ include '../fragment/header.php';
 include '../konfigurasi/function.php';
 ?>
 <header>
-    <h1>Tambah Pengarang</h1>
+    <h1>Edit Pengarang</h1>
 </header>
 <?php include '../fragment/menu.php' ?>
 <main>
