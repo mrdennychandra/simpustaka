@@ -15,7 +15,7 @@ include 'konfigurasi/function.php';
     <form method="post">
         Judul : 
         <input type="text" name="judul" placeholder="ketik judul">
-        <input type="submit" name="submit" value="cari">
+        <input class="btn btn-success" type="submit" name="submit" value="cari">
     </form>
     <?php
     if (isset($_POST['submit'])) {
